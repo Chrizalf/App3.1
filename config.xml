@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets"
+
+xmlns:gap = "http://phonegap.com/ns/1.0"
+
+id = "com.phonegap.app2-MOG"
+
+version = "1.0.0">
+
+
+
+<name>App-3</name>
+
+
+
+<description>
+
+Aplicacion que describe la Fimaz
+
+</description>
+
+
+
+<author href="https://example.com" email="you@example.com">
+
+Christian Zamora
+
+</author>
+
+
+
+<icon src="jquery-mobile/images/icono.png" gap:density="ldpi" gap:platform="android" />
+
+<icon src="jquery-mobile/images/icono.png" gap:density="mdpi" gap:platform="android" />
+
+<icon src="jquery-mobile/images/icono.png" gap:density="hdpi" gap:platform="android" />
+
+<icon src="jquery-mobile/images/icono.png" gap:density="xhdpi" gap:platform="android" />
+
+
+
+</widget>
